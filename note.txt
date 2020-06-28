@@ -1,0 +1,45 @@
+"space of 15""name""single space""size with time duration""space of 2"
+"space of 15""name""single space""size with time duration""space of 3"
+
+https://pixabay.com/videos/
+
+\b([a-zA-Z].+[a-zA-Z].+|[a-zA-Z]\d)
+
+
+([a-zA-Z].+[a-zA-Z].+|[a-zA-Z]\d|E.+)
+
+
+(^(4K|HD).+)
+
+
+List with 2 spaces in last :-
+1) Relaxing_Guru HD 0:11
+2) FreeCreativeStuff 4K 0:14
+3) anwaroptin 4K 0:08
+4) spoot HD 0:24
+5) spaceX55 4K 0:29
+6) yucelozel 4K 0:08
+7) Airvideopl 4K 0:18
+8) u_rjjehevu HD 0:30
+9) RicardoVallejos 4K 0:16
+10) PrettyPixels HD 0:10
+11) Republica HD 0:06
+12) RobertoMyLife 4K 0:40
+13) adege 4K 0:28
+14) fabriciosena2020 HD 0:10
+15) Life-Of-Vids HD 0:54
+16) HighPix_Syb 4K 0:09
+17) Danil_Shostak 4K 0:08
+18) EM80 4K 0:17
+19) adege 4K 0:59
+20) bellergy 4K 0:21
+21) jLasWilson 4K 0:24
+
+
+List with 3 spaces in last :-
+1) Engin_Akyurt 4K 0:59
+2) CLEARSTREAMFILM HD 0:13
+
+
+List with space of 16 from front :-
+1) NickMurphyy HD 0:35
